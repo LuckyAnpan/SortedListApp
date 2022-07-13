@@ -1,0 +1,16 @@
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe.config
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\bin\Debug\SortedListApp.pdb
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.AssemblyReference.cache
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\obj\Debug\MainWindow.g.cs
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\obj\Debug\App.g.cs
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.cache
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.lref
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\obj\Debug\MainWindow.baml
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.g.resources
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.Properties.Resources.resources
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.GenerateResource.cache
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.CoreCompileInputs.cache
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.exe
+C:\Users\pimpawan\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.pdb
